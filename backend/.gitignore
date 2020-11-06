@@ -1,0 +1,8 @@
+
+# Visual Studio cache directory
+.vs/
+
+# Jetbrains Rider cache directory
+.idea/
+
+*.exe
